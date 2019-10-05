@@ -4,7 +4,7 @@ This notebook is constructed as a part of the Bluesmart Quantum Experience Hands
 ## Instructions on how to use.
 
 ### If you want to use it online, run the following link:
-https://mybinder.org/v2/gh/gubiithefish/IBM-Quantum-Experience-Hands-on-Session/master?filepath=notebook-exercises
+https://mybinder.org/v2/gh/raindog72/Quantum-Hackathon/master?filepath=notebook-exercises
 
 ### If you want to access the notebook on your own computer, the following prerequisites are required.
 1. Download python 3.6^
